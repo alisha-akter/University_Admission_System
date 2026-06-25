@@ -1,4 +1,4 @@
-# University Admission System (university_admission_db)
+# University Admission System 
 
 ## Overview
 
